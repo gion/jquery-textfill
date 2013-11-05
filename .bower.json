@@ -1,0 +1,13 @@
+{
+  "name": " jquery-textfill",
+  "homepage": "https://github.com/gion/jquery-textfill",
+  "_release": "4962403dee",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4962403dee3d28f90489cee413d340343eea5d65"
+  },
+  "_source": "git://github.com/gion/jquery-textfill.git",
+  "_target": "*",
+  "_originalSource": "gion/jquery-textfill"
+}
